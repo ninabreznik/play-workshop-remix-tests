@@ -1,5 +1,8 @@
-##  Debugging Transactions
+## Introduction
 
-The goal of this tutorial is to explain how to debug transaction using Remix.
+Load AwardToken tests - `remix.loadgist('f35dc6e4fb93e94187d3d1f6ce37b230')`
+Load SafeMath tests - `remix.loadgist('6011784571f8d5e8fb39475248f86792')`
+Load SimpleStorage tests - `remix.loadgist('f0e9caeb69b7c55b1246c5895f0769ab')`
 
-For the purpose of this tutorial, we will run the JavaScript VM (that’s the default mode when you don’t use Remix with Mist or Metamask). This simulates a custom blockchain. You could do the same using a proper backend node.
+### Developers' references
+[remix-tests/README.md](https://github.com/ethereum/remix/blob/master/remix-tests/README.md)
