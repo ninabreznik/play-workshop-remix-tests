@@ -11,7 +11,6 @@
   }
  ],
   "needs": [
-    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-introduction/",
     "https://ninabreznik.github.io/play-workshop-remix/"
   ],
   "unlocks": []
